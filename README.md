@@ -59,7 +59,7 @@ This project allows users to browse a menu, place an order via a form, and view 
 
 ## 📸 Website Screenshot
 
-![Foodie's Delight Screenshot](Food Order Application/assets/food-ordering-app.jpg)
+![Foodie's Delight Screenshot](Food%20Order%20Application/assets/food-ordering-app.jpg)
 
 ---
 
