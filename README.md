@@ -49,7 +49,7 @@ This project allows users to browse a menu, place an order via a form, and view 
     │   ├── burger.jpeg
     │   ├── pasta.jpeg
     │   ├── pizza.jpeg
-    │   └── food-ordering-app.png
+    │   └── food-ordering-app.jpg
     ├── styles.css
     └── index.html
     ```
@@ -59,7 +59,7 @@ This project allows users to browse a menu, place an order via a form, and view 
 
 ## 📸 Website Screenshot
 
-![Foodie's Delight Screenshot](assets/food-ordering-app.png)
+![Foodie's Delight Screenshot](assets/food-ordering-app.jpg)
 
 ---
 
