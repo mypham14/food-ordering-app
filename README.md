@@ -59,7 +59,7 @@ This project allows users to browse a menu, place an order via a form, and view 
 
 ## 📸 Website Screenshot
 
-![Foodie's Delight Screenshot](Food%20Order%20Application/assets/food-ordering-app.jpg)
+![Foodie's Delight Screenshot](https://github.com/mypham14/food-ordering-app/blob/main/Food%20Order%20Application/assets/food-ordering-app.JPG)
 
 ---
 
