@@ -43,16 +43,23 @@ This project allows users to browse a menu, place an order via a form, and view 
 1. Clone this repository or download the ZIP.  
 2. Make sure you have the following file structure:
     ```
-    project/
+    Food Ordering Application/
     ├── assets/
     │   ├── banner.png
     │   ├── burger.jpeg
     │   ├── pasta.jpeg
-    │   └── pizza.jpeg
+    │   ├── pizza.jpeg
+    │   └── food-ordering-app.png
     ├── styles.css
     └── index.html
     ```
 3. Open `index.html` in your browser to view the site.
+
+---
+
+## 📸 Website Screenshot
+
+<img src="assets/food-ordering-app.png" alt="Foodie's Delight Screenshot" width="600">
 
 ---
 
