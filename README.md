@@ -1,6 +1,7 @@
 # 🍔 Foodie's Delight – Online Food Ordering App
 
 A responsive **food ordering application** that offers users a convenient and visually appealing platform to browse, select, and place orders for food items built with **HTML**, **CSS**, and **Bootstrap**.  
+
 This project allows users to browse a menu, place an order via a form, and view an order summary.  
 
 ---
@@ -19,7 +20,7 @@ This project allows users to browse a menu, place an order via a form, and view 
 
 - **Order Form**  
   - Name and Email input fields  
-  - Delivery address textarea  
+  - Delivery address text area  
   - Dropdown menu for selecting food items  
   - “Place Order” button styled for a seamless look  
 
